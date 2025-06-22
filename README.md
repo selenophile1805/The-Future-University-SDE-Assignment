@@ -4,8 +4,10 @@ A modern social media platform built with FastAPI backend and React frontend.
 
 ## 🌐 Live Demo
 
+- **Frontend**: https://airy-strength-production.up.railway.app/
 - **Backend API**: https://the-future-university-sde-assignment-production.up.railway.app
-- **Frontend**: Deploy the frontend build folder to your preferred platform 
+- **Backend API DOCS**: https://the-future-university-sde-assignment-production.up.railway.app/docs
+
 
 ## 🚀 Project Setup
 
