@@ -1,7 +1,7 @@
 // Environment configuration
 const config = {
     // Use deployed backend URL if available, otherwise fallback to localhost
-    API_BASE_URL: process.env.REACT_APP_API_URL || 'https://the-future-university-sde-assignment-production.up.railway.app',
+    API_BASE_URL: process.env.REACT_APP_API_URL || 'https://the-future-university-sde-assignment-production.up.railway.app/',
 
     // Fallback to localhost for development if needed
     LOCAL_API_URL: 'http://localhost:8000',
